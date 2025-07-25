@@ -27,3 +27,13 @@ let value3 = true
 let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(typeof stringNumber)
+
+
+//primiteive dataypes
+// 7 types
+//String , Number , Boolean , Null , Undefined , Symbol , BIgInt
+
+//Non-primiitive data types
+//Array , objects , functions
+
+
