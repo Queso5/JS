@@ -20,6 +20,6 @@ console.log(newString.trim())//removes whitespace from both ends of the string
 
 console.log(name3.replace('a' , 'u'))
 
-
+console.log(name3.split(" "))
 
 
