@@ -29,11 +29,11 @@ let stringNumber = String(someNumber)
 console.log(typeof stringNumber)
 
 
-//primiteive dataypes
+//primiteive dataypes   (stored in stack memory so original value is not changed  , copy is created )
 // 7 types
 //String , Number , Boolean , Null , Undefined , Symbol , BIgInt
 
-//Non-primiitive data types
+//Non-primiitive data types (stored in heap memory so original value is changed ,  reference is created)
 //Array , objects , functions
 
 
